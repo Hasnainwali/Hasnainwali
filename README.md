@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hasnainwali
 - 👀 I’m fond of web developement
-- 🌱 I’m a Jr front end developer and currently learning backend in Node.js
+- 🌱 I’m a Jr Full Stack (MERN) developer and currently trying to learn advance stuffs in it
 - 💞️ I’m looking to collaborate on web developing
 - 📫 Reach me at developerkhan48@gmail.com
 - 😄 Pronouns: ME and My team/colleagues
