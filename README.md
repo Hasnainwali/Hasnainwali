@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @Hasnainwali<br>👀 I’m fond of web developement<br>🌱 I’m a Jr Full Stack (MERN) developer and currently trying to learn advance stuffs in it<br>💞️ I’m open to collaborate on web developing<br>📫 Reach me at developerkhan48@gmail.com<br>😄 Pronouns: ME and My team/colleagues<br>⚡ Fun fact: Coding, travelling and exploring.
+Hi, I’m @Hasnainwali<br>👀<br>🌱 I’m a Full Stack (MERN) developer and currently trying to learn advance Technologies in it<br>💞️ I’m open to collaborate on web developing<br>📫 Reach me at developerkhan48@gmail.com<br>😄 Pronouns: ME and My team/colleagues<br>⚡ Fun fact: Coding, travelling and exploring.
 
 
 ## 🌐 Socials:
