@@ -11,7 +11,7 @@
 * 💡 **Looking for help with:** System design, cloud deployment, performance optimization, and advanced DevOps practices.
 * 💬 **Ask me about:** React.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs, Tailwind CSS, Bootstrap, Git, GitHub, Vercel, Netlify, Cloudinary, and full-stack web development.
 * 📫 **Reach me at:** *[developerkhan48@gmail.com](mailto:developerkhan48@gmail.com)*
-* 🌐 **Portfolio:** https://hasnainwali-official.vercel.app/
+* 🌐 **website:** https://hasnainwali-official.vercel.app/
 * ⚡ **Fun fact:** I enjoy transforming complex ideas into clean, user-friendly web experiences and continuously exploring the latest web technologies.
 
 ## 🌐 Socials:
